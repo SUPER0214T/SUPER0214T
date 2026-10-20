@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 💼 Experience
 
 * **imtsoft 프론트엔드 개발자** `2022.11 ~ 2024.10`
